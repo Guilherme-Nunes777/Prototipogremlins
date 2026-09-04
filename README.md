@@ -2,8 +2,8 @@
 
 ## Nomes dos Alunos:
 
-* ** [Guilherme Nunes dos Santos]**
-* ** [Filipe Ichiro Rabelo Okuizumi]**
+ ** [Guilherme Nunes dos Santos]**
+ ** [Filipe Ichiro Rabelo Okuizumi]**
 
 ---
 
